@@ -1,1 +1,4 @@
-poc-repo
+Repository Init Content
+=======================
+
+Your project description here.
